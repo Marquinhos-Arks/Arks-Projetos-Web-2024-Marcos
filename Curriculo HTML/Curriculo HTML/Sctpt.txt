@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Título da página</title>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meu Currículo</title>
+</head>
+<body>
+
+			<img src="https://i.pinimg.com/736x/90/b4/4e/90b44e3a47761ea60cce80270ad07e23.jpg" alt="foto 3x4 da Pedro" width="203">
+  <h1>Marcos Gabriel Marques da Silva</h1>
+  
+  <h2>Contato</h2>
+  <p>Gmail: <a href="mailto:Marquinhosmg.ctps@gmail.com">Marquinhosmg.ctps@gmail.com</a></p>
+  <p>Telefone: 69 9 9345-9223</p>
+  <p>LinkedIn: Não Disponível</p>
+  
+  <h2>Experiência</h2>
+  <li>Informática Básica</li>
+  <li>Cursos do Senai</li>
+  <li>Curso da Futura info</li>
+  
+  <h2>Formação Acadêmica</h2>
+  <p>Ensino Médio Incompleto - Escola IFRO Ariquemes - Cursando</p>
+  
+  <h2>Habilidades</h2>
+  <ul>
+    <li>Aprendizado Rápido</li>
+	
+  </ul>
+</body>
+</html>
